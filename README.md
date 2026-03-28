@@ -25,4 +25,4 @@ Dzięki wykorzystaniu platformy Docker, uruchomienie pełnego środowiska (baza 
 1. Otwórz terminal w głównym katalogu projektu (tam, gdzie znajduje się plik `docker-compose.yml` i `README.md`).
 2. Zbuduj i uruchom wszystkie serwisy w tle, wpisując komendę:
    ```bash
-   docker compose up --build -d
+   docker compose up --build
